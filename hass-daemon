@@ -6,7 +6,7 @@ DNAME="Home Assistant"
 
 # Others
 USER="homeassistant"
-PYTHON_DIR="/volume1/@appstore/py3k/usr/local/bin"
+PYTHON_DIR="/volume1/@appstore/python3/usr/local/bin"
 PYTHON="$PYTHON_DIR/python3"
 HASS="$PYTHON_DIR/hass"
 INSTALL_DIR="/volume1/homeassistant"
